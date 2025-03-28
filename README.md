@@ -84,6 +84,6 @@ Friend suggestions for user 1: 3 (mutual connection via 2)
 This project is **open-source** under the **MIT License**.
 
 ## 👨‍💻 Author
-- **Harshita Verma
+- Harshita Verma
 - LinkedIn: www.linkedin.com/in/harshita-verma-57a5b7229
 
