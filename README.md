@@ -27,6 +27,10 @@ DSA_GRAPHS/
 
 ## 🔧 Installation & Usage
 ### 1️⃣ **Clone the repository**
+```sh
+git clone https://github.com/Harshitaaverma/SocialNetwork.git
+cd DSA_GRAPHS/SocialNetwork
+```
 
 
 ### 2️⃣ **Compile the code**
